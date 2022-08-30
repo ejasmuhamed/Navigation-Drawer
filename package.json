@@ -9,7 +9,7 @@
   "dependencies": {
     "luxon": "^1.16.0",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "native-base": "^2.12.1",
     "react": "16.8.3",
     "react-moment": "^0.9.2",
